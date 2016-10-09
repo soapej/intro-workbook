@@ -513,16 +513,16 @@ $(document).ready(function() {
 
 
   /*    20     */
-  // $('.final').hover(function() {
-  //   $('.fifteen').css({
-  //     "background-image": "url(img/screen/ch3.png)"
-  //   });
-  // });
-  //
-  // $('.ch3').mouseout(function() {
-  //   $('.fifteen').css({
-  //     "background-image": "url(img/kid.png)"
-  //   });
-  // });
+  $('.final').hover(function() {
+    $('.twenty').css({
+      "background-image": "url(img/screen/final.png)"
+    });
+  });
+
+  $('.final').mouseout(function() {
+    $('.twenty').css({
+      "background-image": "url(img/mickeyParade.jpg)"
+    });
+  });
 
 });
