@@ -49,6 +49,9 @@ header{
   z-index: 1;
   margin-top:75px;
 }
+.navbar div ul{
+  margin: 0 auto;
+}
 .affix {
       top: 0;
       width: 100%;
@@ -59,7 +62,7 @@ header{
 
 
 .dropOne{
-  margin-left:55px;
+  /*margin-left:55px;*/
 }
 
 
