@@ -8,6 +8,7 @@ body{
   background-color: #aaa7a7;
   background-size: cover;
   font-family:'Acme', sans-serif;
+  overflow-x: hidden;
 }
 
 h5{
